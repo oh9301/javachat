@@ -18,6 +18,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+//97jkkim
 public class GUIChatClient extends JFrame implements ActionListener, Runnable{
 	JPanel cardPane, connectPane, chatPane;
 	JLabel  msg;
