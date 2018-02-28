@@ -7,6 +7,7 @@ import java.net.Socket;
 
 import javax.swing.*;
 
+//Seongyong
 public class GUIChatServer extends JFrame implements ActionListener{
 	TextArea txt_list;
 	JButton btn_exit;
